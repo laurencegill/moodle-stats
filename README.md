@@ -8,3 +8,5 @@ GRANT SELECT ON `moodle`.`mdl_users` TO 'moodlechecker'@'hostname';
 GRANT SELECT ON `moodle`.`mdl_files` TO 'moodlechecker'@'hostname';
 GRANT SELECT ON `moodle`.`mdl_chat_users` TO 'moodlechecker'@'hostname';
 ```
+
+Use for cacti or similar, may possibly adapt for threshold alerts in the future.
